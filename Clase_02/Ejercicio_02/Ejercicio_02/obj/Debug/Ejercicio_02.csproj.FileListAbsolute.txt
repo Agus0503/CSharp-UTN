@@ -1,0 +1,7 @@
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_02\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_02\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_02\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_02\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_02\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_02\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_02\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.pdb
