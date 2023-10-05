@@ -1,0 +1,21 @@
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\bin\Debug\net6.0-windows\C01 - Cotizador Desktop.exe
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\bin\Debug\net6.0-windows\C01 - Cotizador Desktop.deps.json
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\bin\Debug\net6.0-windows\C01 - Cotizador Desktop.runtimeconfig.json
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\bin\Debug\net6.0-windows\C01 - Cotizador Desktop.dll
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\bin\Debug\net6.0-windows\C01 - Cotizador Desktop.pdb
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\C01 - Cotizador Desktop.csproj.GenerateResource.cache
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\C01 - Cotizador Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\C01 - Cotizador Desktop.AssemblyInfoInputs.cache
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\C01 - Cotizador Desktop.AssemblyInfo.cs
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\C01 - Cotizador Desktop.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\C01 - Cotizador Desktop.dll
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\refint\C01 - Cotizador Desktop.dll
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\C01 - Cotizador Desktop.pdb
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\C01 - Cotizador Desktop.genruntimeconfig.cache
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\ref\C01 - Cotizador Desktop.dll
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\C01___Cotizador_Desktop.Monedas.resources
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\C01___Cotizador_Desktop.Properties.Resources.resources
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\bin\Debug\net6.0-windows\Billetes.dll
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\bin\Debug\net6.0-windows\Billetes.pdb
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\C01 - Cotizador Desktop.csproj.AssemblyReference.cache
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_05\C01 - Cotizador Desktop\C01 - Cotizador Desktop\obj\Debug\net6.0-windows\C01 - Cotizador Desktop.csproj.CopyComplete
