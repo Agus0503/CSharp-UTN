@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_C02", "Ejercicio_C02\Ejercicio_C02.csproj", "{0665816D-950F-4D58-ADE5-CB93C7D53705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grados", "Grados\Grados.csproj", "{61784D9C-377C-42DC-BC3E-EC8C35873C54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0665816D-950F-4D58-ADE5-CB93C7D53705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0665816D-950F-4D58-ADE5-CB93C7D53705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0665816D-950F-4D58-ADE5-CB93C7D53705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0665816D-950F-4D58-ADE5-CB93C7D53705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61784D9C-377C-42DC-BC3E-EC8C35873C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61784D9C-377C-42DC-BC3E-EC8C35873C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61784D9C-377C-42DC-BC3E-EC8C35873C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61784D9C-377C-42DC-BC3E-EC8C35873C54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E73C052-C92E-4F6B-979B-ADE9D7BB5916}
+	EndGlobalSection
+EndGlobal
