@@ -1,0 +1,11 @@
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_06\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_06\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_06\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_06\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_06\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_06\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_06\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_06\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_06\Biblioteca\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_06\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\DIEGO\Desktop\AGUSTIN\UTN\SEGUNDO CUATRIMESTRE\CSharp\Clase_06\Biblioteca\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
